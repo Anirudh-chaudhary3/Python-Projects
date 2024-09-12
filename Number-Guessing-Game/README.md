@@ -24,4 +24,4 @@ If the User inputs range, let’s say from 1 to 100. And compiler randomly selec
 -  if the user didn’t guess the integer in the minimum number of guesses, he/she will get “Better Luck Next Time!” output.
 
 # Output :
-![Alt text](Number-Guessing-Game/Number Guess (OUTPUT).png)
+![Alt text](/Number Guess (OUTPUT).png)
